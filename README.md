@@ -1,2 +1,5 @@
 # Semana_Tec_Arte_Analitica
 Repositorio de Semana Tec: Arte Analítica
+
+El archivo principal se llama main.ipynb
+Otros importantes son shots.ipynb y 03 Kmeans.ipynb
